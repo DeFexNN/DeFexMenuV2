@@ -1,0 +1,25 @@
+--名称
+appname="DeFexMenuV2_clone🇺🇦"
+--版本号
+appver="777"
+--版本
+appcode="1"
+--SDK
+appsdk="15"
+--包名
+packagename="com.defex.bot"
+--调试模式
+debugmode=false
+--应用权限
+user_permission={
+  "ACCESS_NETWORK_STATE",
+  "INTERNET",
+  "READ_EXTERNAL_STORAGE",
+  "SYSTEM_ALERT_WINDOW",
+  "WRITE_EXTERNAL_STORAGE",
+  "WRITE_SETTINGS",
+}
+--跳过编译
+skip_compilation={
+
+}

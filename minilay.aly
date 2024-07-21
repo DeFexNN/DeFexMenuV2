@@ -1,0 +1,13 @@
+{
+  LinearLayout;
+  layout_width="20dp";
+  layout_height="30dp";
+  id="jumpmenu";
+  {
+    ImageView;
+    layout_width="50dp";
+    src="a.png";
+    id="Win_minWindow11";
+    layout_height="50dp";
+  };
+};
